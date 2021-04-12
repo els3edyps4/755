@@ -24,8 +24,6 @@ mira\mira2.js
 webkit-7.50\int64.js
 webkit-7.50\ps4.js
 webkit-7.50\utils.js
-enableupdates.js
-disableupdates.js
 
 FALLBACK: 
 index.html 
